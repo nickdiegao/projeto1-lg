@@ -13,7 +13,7 @@ export class HomePage {
   async mostrarAlerta() {
     const alert = await this.alertController.create({
       header: 'Alerta',
-      message: 'Nicholas Diego - 01436621',
+      message: 'Luan Guilherme - 01648011',
       buttons: ['OK']
     });
 
